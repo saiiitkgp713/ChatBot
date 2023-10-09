@@ -1,2 +1,2 @@
 # ChatBot
-Conversational chatbot model hugging face transformers
+Conversational chatbot model using hugging face transformers library
